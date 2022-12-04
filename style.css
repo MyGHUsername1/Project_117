@@ -1,0 +1,18 @@
+body {
+    background: #aaf0d1;
+}
+
+.score {
+    font-size: medium;
+    margin-right: 150px;
+}
+
+.timer {
+    font: medium;
+    float:right;
+    margin-left: 150;
+}
+
+.sketch_tbd{
+    color: #550f2e;
+}
